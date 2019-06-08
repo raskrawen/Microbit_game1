@@ -1,2 +1,2 @@
 # Microbit_game1
-Simple game on Micro:bit
+Simple space invader-clone game on Micro:bit.
